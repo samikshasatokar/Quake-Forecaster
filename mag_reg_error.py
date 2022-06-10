@@ -1,6 +1,5 @@
 import magnitude_data_cleaning
 import matplotlib.pyplot as plt
-import seaborn as s
 import pandas as pd
 import plotly.express as px
 import streamlit as st
